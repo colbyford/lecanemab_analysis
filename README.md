@@ -4,6 +4,12 @@
 
 Analysis of Lecanemab, an amyloid beta-targeting antibody used to treat Alzheimer’s Disease.
 
+## Structures
+- Amyloid Beta: Coming soon...
+- Lecanemab Fab: Coming soon...
+
+## Docking Assessment
+- HADDOCK: Coming soon...
 
 ## References
 - KEGG Entry: https://www.kegg.jp/entry/D11678
