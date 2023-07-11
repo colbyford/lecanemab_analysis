@@ -2,7 +2,7 @@
 
 <h3 align="right">Colby T. Ford, Ph.D.</h3>
 
-Analysis of Lecanemab, an amyloid beta-targeting antibody used to treat Alzheimer’s Disease.
+Protein interaction analysis of Lecanemab, an amyloid beta-targeting antibody used to treat Alzheimer’s Disease.
 
 Companion repo for: https://medium.com/@colbyford/predicting-the-molecular-interactions-of-lecanemab-the-new-fda-approved-monoclonal-antibody-for-94441d6a8a24
 
