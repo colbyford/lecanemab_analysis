@@ -9,7 +9,7 @@ Companion repo for: https://medium.com/@colbyford/predicting-the-molecular-inter
 ![](docking/haddock_2.4/cluster1_1_version1.png)
 
 ## Structures
-- Amyloid Beta: [structures/amyloid_beta/8azs.pdb](structures/amyloid_beta/8azs.pdb)
+- Amyloid Beta 42: [structures/amyloid_beta/8azs.pdb](structures/amyloid_beta/8azs.pdb)
 - Lecanemab Fab: [structures/lecanemab/lecanemab_fab.pdb](structures/lecanemab/lecanemab_fab.pdb)
 
 ## Docking Assessment
