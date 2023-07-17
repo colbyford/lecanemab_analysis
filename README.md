@@ -25,6 +25,9 @@ Companion repo for: https://medium.com/@colbyford/predicting-the-molecular-inter
 | Restraints violation energy | 256.1 +/- 29.0  |
 | Buried Surface Area         | 2332.0 +/- 37.7 |
 
+Interacing Residues:
+- Heavy: T28, S30, S53, G54, S56, T57, and Y59
+- Light: Q27 and S32
 
 ## References
 - KEGG Entry: https://www.kegg.jp/entry/D11678
