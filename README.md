@@ -28,8 +28,9 @@ Companion repo for: https://medium.com/@colbyford/predicting-the-molecular-inter
 | Buried Surface Area         | 2332.0 +/- 37.7 |
 
 ### Interacing Residues (on Fab):
-- Heavy: T28, S30, S53, G54, S56, T57, and Y59
-- Light: Q27 and S32
+- Fab Heavy Chain: T28, S30, S53, G54, S56, T57, and Y59
+- Fab Light Chain: Q27 and S32
+- Antigen (Aβ42): E11, Q15, K16, V18, F19, A21, A30, G33, G38, and V40
 
 ### PRODIGY Metrics
 
